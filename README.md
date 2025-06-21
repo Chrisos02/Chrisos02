@@ -14,7 +14,7 @@
 
 ### Semester 2
 - [PGR110, Visual Analytics](https://github.com/Chrisos02/PGR110-visual-analytics-eksamen)             (Bestått)
-- [PGR112, Objektorientert programmering]()  (Bestått)
+- [PGR112, Objektorientert programmering](https://github.com/Chrisos02/PGR112-objektorientert-programmering-eksamen)  (Bestått)
 - [TK2100, Informasjonssikkerhet](https://github.com/Chrisos02/TK2100-informasjonssikkerhet-eksamen)          (Bestått)
 
 ### Semester 3
