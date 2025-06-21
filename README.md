@@ -19,7 +19,7 @@
 
 ### Semester 3
 - [SKY2100, Skysikkerhet]()  (C)
-- CYB2100. Cyberforsvar  (B)
+- [CYB2100. Cyberforsvar](https://github.com/Chrisos02/CYB2100-cyberforsvar-eksamen) (B)
 - ETH2100, Etisk hacking (B)
 
 ### Semester 4
