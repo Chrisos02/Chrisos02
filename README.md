@@ -28,3 +28,11 @@
 - PG4200, Algorithms and Data Structures (B)
 - PGR107, Python Programming             (A)
 
+### Semester 5
+- GRC1100, Governance, Risk and Compliance (Høst 2025)
+- IOS3100, IoT/OT sikkerhet (Høst 2025)
+- PRO203, SMidig prosjekt (Høst 2025)
+
+  ### Semester 6
+  - PJ6100, Undersøkelsesmetoder (Vår 2025)
+  - BAO304, Bachelorprosjekt (Vår 2025)
