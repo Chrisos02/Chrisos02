@@ -24,7 +24,7 @@
 
 ### Semester 4
 - PG3401, Programmering i C for Linux    (C)
-- BU5300, IT prosjektledelse             (B)
+- [BU5300, IT prosjektledelse](https://github.com/Chrisos02/BU5300-IT-prosjektledelse-eksamen)          (B)
 - [PG4200, Algorithms and Data Structures](https://github.com/Chrisos02/PG4200-algoritmer-og-datastrukturer-eksamen) (B)
 - [PGR107, Python Programming](https://github.com/Chrisos02/PGR107-python-eksamen)             (A)
 
