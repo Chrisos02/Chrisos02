@@ -18,7 +18,7 @@
 - [TK2100, Informasjonssikkerhet](https://github.com/Chrisos02/TK2100-informasjonssikkerhet-eksamen)          (Bestått)
 
 ### Semester 3
-- SKY2100, Skysikkerhet  (C)
+- [SKY2100, Skysikkerhet]()  (C)
 - CYB2100. Cyberforsvar  (B)
 - ETH2100, Etisk hacking (B)
 
