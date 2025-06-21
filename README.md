@@ -9,7 +9,7 @@
 ### Semester 1
 - PRO105, Kreativt Webprosjekt           (Bestått)
 - PGR102, Introduksjon til Programmering (Bestått)
-- TK1104, Digital Teknologi              (Bestått)
+- [TK1104, Digital Teknologi](https://github.com/Chrisos02/TK1104-digital-teknologi-eksamen)              (Bestått)
 - [DB1102, Databaser](https://github.com/Chrisos02/DB1102-databaser-eksamen)                      (Bestått)
 
 ### Semester 2
