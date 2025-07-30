@@ -20,7 +20,7 @@
 ### Semester 3
 - [SKY2100, Skysikkerhet](https://github.com/Chrisos02/SKY2100-skysikkerhet-eksamen)  (C)
 - [CYB2100, Cyberforsvar](https://github.com/Chrisos02/CYB2100-cyberforsvar-eksamen) (B)
-- ETH2100, Etisk hacking (B)
+- [ETH2100, Etisk hacking](https://github.com/Chrisos02/ETH2100-etisk-hacking-eksamen) (B)
 
 ### Semester 4
 - [PG3401, Programmering i C for Linux](https://github.com/Chrisos02/PG3401-c-programmering)    (C)
