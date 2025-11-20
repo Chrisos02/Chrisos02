@@ -6,7 +6,7 @@
 
 ## Høyskolen Kristiania - Bachelor Cybersecurity
 
-### Semester 1 (1 og 2 semster: Bestått/Ikke bestått)
+### Semester 1 (Bestått/Ikke bestått)
 - [PRO105, Kreativt Webprosjekt]        (Bestått)
 - [PGR102, Introduksjon til Programmering] (Bestått)
 - [TK1104, Digital Teknologi]             (Bestått)
