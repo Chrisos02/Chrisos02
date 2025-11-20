@@ -10,7 +10,7 @@
 - [PRO105, Kreativt Webprosjekt]        (Bestått)
 - [PGR102, Introduksjon til Programmering] (Bestått)
 - [TK1104, Digital Teknologi]             (Bestått)
-- [DB1102, Databaser])                      (Bestått)
+- [DB1102, Databaser]                      (Bestått)
 
 ### Semester 2
 - [PGR110, Visual Analytics]            (Bestått)
