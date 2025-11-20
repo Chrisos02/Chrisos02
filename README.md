@@ -6,7 +6,7 @@
 
 ## Høyskolen Kristiania - Bachelor Cybersecurity
 
-### Semester 1
+### Semester 1 (1 og 2 semster: Bestått/Ikke bestått)
 - [PRO105, Kreativt Webprosjekt]        (Bestått)
 - [PGR102, Introduksjon til Programmering] (Bestått)
 - [TK1104, Digital Teknologi]             (Bestått)
@@ -17,7 +17,7 @@
 - [PGR112, Objektorientert programmering]  (Bestått)
 - [TK2100, Informasjonssikkerhet]       (Bestått)
 
-### Semester 3
+### Semester 3 (A-F)
 - [SKY2100, Skysikkerhet](https://github.com/Chrisos02/SKY2100-skysikkerhet-eksamen)  (C)
 - [CYB2100, Cyberforsvar](https://github.com/Chrisos02/CYB2100-cyberforsvar-eksamen) (B)
 - [ETH2100, Etisk hacking](https://github.com/Chrisos02/ETH2100-etisk-hacking-eksamen) (B)
