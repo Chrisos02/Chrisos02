@@ -13,8 +13,8 @@
 - DB1102, Databaser                      (Bestått)
 
 ### Semester 2 (Bestått/Ikke bestått)
-- PGR110, Visual Analytics            (Bestått)
-- PGR112, Objektorientert programmering  (Bestått)
+- [PGR110, Visual Analytics](https://github.com/Chrisos02/PGR110-visual-analytics-eksamen)            (Bestått)
+- [PGR112, Objektorientert programmering](https://github.com/Chrisos02/PGR112-objektorientert-programmering-eksamen)  (Bestått)
 - TK2100, Informasjonssikkerhet       (Bestått)
 
 ### Semester 3 (A-F)
