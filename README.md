@@ -29,7 +29,7 @@
 - [PGR107, Python Programming](https://github.com/Chrisos02/PGR107-python-eksamen)             (A)
 
 ### Semester 5
-- GRC1100, Governance, Risk and Compliance (B)
+- [GRC1100, Governance, Risk and Compliance](https://github.com/Chrisos02/GRC1100-Governance-Risk-and-Compliance) (B)
 - IOS3100, IoT/OT sikkerhet (Høst 2025)
 - PRO203, SMidig prosjekt (Høst 2025)
 
