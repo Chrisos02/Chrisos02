@@ -7,8 +7,8 @@
 ## Høyskolen Kristiania - Bachelor Cybersecurity
 
 ### Semester 1 (Bestått/Ikke bestått)
-- PRO105, Kreativt Webprosjekt      (Bestått)
-- PGR102, Introduksjon til Programmering (Bestått)
+- [PRO105, Kreativt Webprosjekt](https://github.com/Chrisos02/PRO105-kreativt-webprosjekt-eksamen)      (Bestått)
+- [PGR102, Introduksjon til Programmering](https://github.com/Chrisos02/PGR102-introduksjon-programmering) (Bestått)
 - TK1104, Digital Teknologi             (Bestått)
 - DB1102, Databaser                      (Bestått)
 
