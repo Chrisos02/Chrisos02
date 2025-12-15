@@ -34,5 +34,5 @@
 - PRO203, Smidig prosjekt (Høst 2025)
 
 ### Semester 6
-- PJ6100, Undersøkelsesmetoder (Vår 2025)
-- BAO304, Bachelorprosjekt (Vår 2025)
+- PJ6100, Undersøkelsesmetoder (Vår 2026)
+- BAO304, Bachelorprosjekt (Vår 2026)
