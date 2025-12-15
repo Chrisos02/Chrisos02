@@ -30,7 +30,7 @@
 
 ### Semester 5
 - [GRC1100, Governance, Risk and Compliance](https://github.com/Chrisos02/GRC1100-Governance-Risk-and-Compliance) (B)
-- [IOS3100, IoT/OT sikkerhet]([Høst 2025](https://github.com/Chrisos02/IOS3100-IoT-OT-sikkerhet) (B)
+- [IOS3100, IoT/OT sikkerhet](https://github.com/Chrisos02/IOS3100-IoT-OT-sikkerhet) (B)
 - PRO203, Smidig prosjekt (Høst 2025)
 
 ### Semester 6
