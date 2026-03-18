@@ -40,4 +40,4 @@
 
 ### Prosjekter
 
-- [Active Directory Homelab](https://github.com/Chrisos02/active-directory-homelab)
+- [Active Directory Homelab](https://github.com/Chrisos02/active-directory-homelab) (on going)
