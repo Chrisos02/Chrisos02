@@ -36,3 +36,8 @@
 ### Semester 6
 - PJ6100, Undersøkelsesmetoder (Vår 2026)
 - BAO304, Bachelorprosjekt (Vår 2026)
+
+
+### Prosjekter
+
+- [Active Directory Homelab](https://github.com/Chrisos02/active-directory-homelab)
