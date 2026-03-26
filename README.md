@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Chris Osmundsen - Studieprosjekter og Eksamener
+# Chris Osmundsen - Eksamener og Prosjekter
 
 ---
 
-## Høyskolen Kristiania - Bachelor Cybersecurity
+## Bachelor Cybersecurity
 
 ### Semester 1 (Bestått/Ikke bestått)
 - [PRO105, Kreativt Webprosjekt](https://github.com/Chrisos02/PRO105-kreativt-webprosjekt-eksamen)      (Bestått)
