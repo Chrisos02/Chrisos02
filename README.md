@@ -34,7 +34,7 @@
 - [PRO203, Smidig prosjekt](https://github.com/Chrisos02/PRO203-Smidig-prosjekt) (C)
 
 ### Semester 6
-- PJ6100, Undersøkelsesmetoder (Vår 2026)
+- [PJ6100, Undersøkelsesmetoder](https://github.com/Chrisos02/PJ6100-Unders-kelsesmetoder) (B)
 - BAO304, Bachelorprosjekt (Vår 2026)
 
 
