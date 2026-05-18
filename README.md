@@ -42,4 +42,3 @@
 
 - [Active Directory Homelab](https://github.com/Chrisos02/active-directory-homelab) (ongoing)
 
-- [Docker](https://github.com/Chrisos02/docker-k3s-demo)
