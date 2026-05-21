@@ -41,4 +41,5 @@
 ### Prosjekter
 
 - [Active Directory Homelab](https://github.com/Chrisos02/active-directory-homelab) (ongoing)
+- [k3s](https://github.com/Chrisos02/first_k3s_project)
 
