@@ -1,7 +1,7 @@
 # Hei, jeg heter Chris Osmundsen
 <a href="https://www.linkedin.com/in/chris-osmundsen-6a5307263/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# Cybersikkerhet | Fremtidig Nettverksingeniør
+Cybersikkerhet | På vei mot Network Engineer
 
 Jeg er nyutdannet med en bachelorgrad i cybersikkerhet fra Høyskolen Kristiania (Bergen), og har en sterk interesse for nettverk, infrastruktur og sikkerhet.
 
