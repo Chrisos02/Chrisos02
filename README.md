@@ -11,7 +11,7 @@ Jeg studerer for tiden mot Cisco CCNA og fokuserer spesielt på å utvikle prakt
 
 ## Mål
 
-Målet mitt er å utvikle meg til en Network Engineer / Infrastructure Engineer med en sterk forståelse av cybersikkerhet.
+Målet mitt er å utvikle meg til en Network Engineer med en sterk forståelse av cybersikkerhet.
 
 På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhetsprosjekter, homelab-prosjekter og teknisk dokumentasjon
 
