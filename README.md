@@ -1,7 +1,7 @@
 # Hei, jeg heter Chris Osmundsen
 <a href="https://www.linkedin.com/in/chris-osmundsen-6a5307263/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersikkerhet | Fremtidig Nettverksingeniør
+# Cybersikkerhet | Fremtidig Nettverksingeniør
 
 Jeg er nyutdannet med en bachelorgrad i cybersikkerhet fra Høyskolen Kristiania (Bergen), og har en sterk interesse for nettverk, infrastruktur og sikkerhet.
 
@@ -15,7 +15,7 @@ Målet mitt er å utvikle meg til en Network Engineer / Infrastructure Engineer 
 
 På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhetsprosjekter, homelab-prosjekter og teknisk dokumentasjon
 
-## 🎓 Utdanning og sertifiseringer
+## Utdanning og sertifiseringer
 
 * 🎓 Bachelor i cybersikkerhet — Høyskolen Kristiania
 * 🌐 Cisco CCNA 200-301 — *Under forberedelse*
