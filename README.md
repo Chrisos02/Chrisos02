@@ -5,7 +5,7 @@ Cybersikkerhet | På vei mot Network Engineer
 
 Jeg er nyutdannet med en bachelorgrad i cybersikkerhet fra Høyskolen Kristiania (Bergen), og har en sterk interesse for nettverk, infrastruktur og sikkerhet.
 
-Jeg liker å lære gjennom praktisk arbeid og bygger derfor kontinuerlig videre på kunnskapen min gjennom homelab, Cisco Packet Tracer, Windows Server, Active Directory, Linux, virtualisering og nettverksanalyse. studerer for tiden mot Cisco CCNA og fokuserer spesielt på å utvikle praktiske ferdigheter innen nettverk, routing, switching og feilsøking.
+Jeg liker å lære gjennom praktisk arbeid og bygger derfor kontinuerlig videre på kunnskapen min gjennom homelab, Cisco Packet Tracer, Windows Server, Active Directory, Linux, virtualisering og nettverksanalyse. Studerer for tiden mot Cisco CCNA og fokuserer spesielt på å utvikle praktiske ferdigheter innen nettverk, routing, switching og feilsøking.
 
 ## Mål
 
