@@ -48,9 +48,8 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
 </div>
 
-### Samarbeid & versjonskontroll
+
 <div>
-  <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
