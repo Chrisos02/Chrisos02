@@ -57,6 +57,8 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 ## Prosjekter
 
 - **[Homelab](https://github.com/Chrisos02/Homelab)**
+
+- **[CCNA labs](https://github.com/Chrisos02/ccna-labs)**
   
 - **[k3s](https://github.com/Chrisos02/first_k3s_project)**
 
