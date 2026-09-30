@@ -40,7 +40,6 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 ### Containere
 <div>
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-k3s-FFC61C?&style=for-the-badge&logo=k3s&logoColor=black" />
 </div>
 
 ### Cloud
