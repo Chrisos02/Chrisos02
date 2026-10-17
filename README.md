@@ -16,8 +16,9 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 ## Utdanning og sertifiseringer
 
 * 🎓 Bachelor i cybersikkerhet — Høyskolen Kristiania
+* 🔐 Microsoft SC-900: Security, Compliance, and Identity Fundamentals — Bestått
 * 🌐 Cisco CCNA 200-301 — *Under forberedelse*
-* 🔐 Microsoft SC-900 — *Under forberedelse*
+
 
 ## Verktøy og ferdigheter
 
