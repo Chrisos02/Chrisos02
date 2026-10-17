@@ -16,8 +16,8 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 ## Utdanning og sertifiseringer
 
 * 🎓 Bachelor i cybersikkerhet — Høyskolen Kristiania
-* 🛡️ [Google Cybersecurity Certificate](https://github.com/Chrisos02/certifications/tree/main/google-cybersecurity) — Fullført (2025)
-* 🔐 [Microsoft SC-900:](https://github.com/Chrisos02/certifications/tree/main/sc-900) Security, Compliance, and Identity Fundamentals — Bestått
+* 🛡️ [Google Cybersecurity Certificate](https://github.com/Chrisos02/certifications/tree/main/google-cybersecurity) — Bestått
+* 🔐 [Microsoft SC-900:](https://github.com/Chrisos02/certifications/tree/main/sc-900) Security, Compliance, and Identity Fundamentals — Bestått 
 * 🌐 Cisco CCNA 200-301 — *Under forberedelse*
 
 
