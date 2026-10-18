@@ -15,7 +15,7 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 
 ## Utdanning og sertifiseringer
 
-* 🎓 Bachelor i Cybersikkerhet
+* 🎓 [Bachelor i Cybersikkerhet](https://github.com/Chrisos02/BachelorCybersikkerhet)
 * 🛡️ [Google Cybersecurity Certificate](https://github.com/Chrisos02/certifications/tree/main/google-cybersecurity) 
 * 🔐 [Microsoft SC-900](https://github.com/Chrisos02/certifications/tree/main/sc-900) 
 * 🌐 Cisco CCNA 200-301 — *Under forberedelse*
@@ -60,6 +60,4 @@ På GitHub dokumenterer jeg læringen min gjennom nettverkslabber, cybersikkerhe
 - **[Homelab](https://github.com/Chrisos02/Homelab)**
 
 - **[CCNA labs](https://github.com/Chrisos02/ccna-labs)**
-
-- **[Bachelor](https://github.com/Chrisos02/BachelorCybersikkerhet)**
 
